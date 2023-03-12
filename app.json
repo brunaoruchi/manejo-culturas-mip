@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "mip",
+    "slug": "mip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.mip"
+    }
+  }
+}
